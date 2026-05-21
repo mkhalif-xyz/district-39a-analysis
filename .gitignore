@@ -1,0 +1,15 @@
+# Python virtualenv
+.venv/
+__pycache__/
+*.pyc
+
+# macOS metadata
+.DS_Store
+
+# Large raw data downloads (regenerable; not appropriate for git)
+data/
+*.zip
+
+# Editor scratch
+*.bak
+*.swp
